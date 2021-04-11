@@ -23,10 +23,10 @@ main ()
   int i;
   double x;
 
-  printf("Enter a value for str, i and x: ");
-  scanf("%s %d %lf", str, &i, &x);
+  printf ("Enter a value for str, i and x: ");
+  scanf ("%s %d %lf", str, &i, &x);
 
-  printf("You entered: %s %d %lf\n", str, i, x);
+  printf ("You entered: %s %d %lf\n", str, i, x);
 
   return 0;
 }

@@ -23,7 +23,7 @@ main ()
   int a = 100;
   float b = 10.0;
 
-  printf("Hello, I am printing this text to the screen :3\n");
-  printf("The value of a is %d and the value of b is %f\n", a, b);
+  printf ("Hello, I am printing this text to the screen :3\n");
+  printf ("The value of a is %d and the value of b is %f\n", a, b);
   return 0;
 }
