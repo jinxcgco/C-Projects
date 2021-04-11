@@ -21,11 +21,12 @@ main ()
 {
   char str[100];
   int i;
+  double x;
 
-  printf("Enter a value for str and i: ");
-  scanf("%s %d", str, &i);
+  printf("Enter a value for str, i and x: ");
+  scanf("%s %d %lf", str, &i, &x);
 
-  printf("You entered: %s %d\n", str, i);
+  printf("You entered: %s %d %lf\n", str, i, x);
 
   return 0;
 }
