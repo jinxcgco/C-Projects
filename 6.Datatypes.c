@@ -64,7 +64,7 @@ main ()
 
   // Print the size of each of these datatypes
 
-  printf ("%i %i %i %i\n", sizeof (int), sizeof (float), sizeof (double),
+  printf ("%lu %lu %lu %lu\n", sizeof (int), sizeof (float), sizeof (double),
           sizeof (_Bool));
 
   return 0;
