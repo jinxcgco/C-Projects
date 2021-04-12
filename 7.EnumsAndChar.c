@@ -15,11 +15,52 @@
    along with CProjects; if not, see
    <https://www.gnu.org/licenses/>. */
 
-#include <stdio.h>
+enum primary_color
+{
+  red,
+  yellow,
+  blue
+};
+
+enum month
+{
+  january,
+  february,
+  march,
+  april,
+  may,
+  june,
+  july,
+  august,
+  september,
+  october,
+  november,
+  december
+};
+
+enum direction
+{
+  up,
+  down,
+  left = 10,
+  right
+};
+
+// characters definition
+char a_character = 'A';
+char another_character = 48;
+char break_line = '\n';
+char backspace_character = '\b';
 
 int
 main ()
 {
-  printf ("Hi, My name is Jinx!\n");
-  return 0;
+  enum primary_color my_color;
+  my_color = red;
+
+  enum month current_month;
+  current_month = april;
+
+  enum direction some_direction;
+  some_direction = left;
 }
