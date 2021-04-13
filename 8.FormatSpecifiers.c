@@ -38,11 +38,11 @@ main ()
   printf ("Integer: %i\n", int_variable); //%i
   printf ("Floating: %f\n", float_var);   //%f
   printf ("Only two decimal numbers of our floating variable: %.2f\n",
-          float_var);                  //%.f
-  printf ("Double: %e\n", double_var); //%e
-  printf ("Double: %g\n", double_var); //%g
-  printf ("Char: %c\n", char_var);     //%c
-  printf ("Bool: %i\n", bool_var);     //%i
+          float_var);                                  //%.f
+  printf ("Double: %f, %e\n", double_var, double_var); //%f %e
+  printf ("Double: %g\n", double_var);                 //%g
+  printf ("Char: %c\n", char_var);                     //%c
+  printf ("Bool: %i\n", bool_var);                     //%i
 
   printf ("Short int: %hi, %hx, %ho\n", short_int_var, short_int_var,
           short_int_var); // %hi %hx %ho

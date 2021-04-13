@@ -6,3 +6,6 @@ gcc 5.InitialisingVariables.c -o 5.InitialisingVariables.o
 gcc 6.Datatypes.c -o 6.Datatypes.o
 gcc 7.EnumsAndChar.c -o 7.EnumsAndChar.o
 gcc 8.FormatSpecifiers.c -o 8.FormatSpecifiers.o
+gcc 9.CLIArguments.c -o 9.CLIArguments.o
+gcc 10.Challenge1.c -o 10.Challenge1.o
+gcc 11.Challenge2.c -o 11.Challenge2.o
