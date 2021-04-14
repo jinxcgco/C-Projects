@@ -15,6 +15,8 @@
    along with CProjects; if not, see
    <https://www.gnu.org/licenses/>. */
 
+#include <stdio.h>
+
 /**
  * This challenge is to learn how to use enums
  */
