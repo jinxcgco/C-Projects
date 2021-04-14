@@ -12,4 +12,5 @@ gcc 11.Challenge2.c -o 11.Challenge2.o
 gcc 12.BasicOperators.c -o 12.BasicOperators.o
 gcc 13.BitwiseOperators.c -o 13.BitwiseOperators.o
 gcc 14.Cast\&Sizeof.c -o 14.Cast\&Sizeof.o
-gcc 15.Challenge3.c -o 15.Challenge.o
+gcc 15.Challenge3.c -o 15.Challenge3.o
+gcc 16.Challenge4.c -o 16.Challenge4.o
