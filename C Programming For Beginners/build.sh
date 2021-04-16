@@ -14,3 +14,5 @@ gcc 13.BitwiseOperators.c -o 13.BitwiseOperators.o
 gcc 14.Cast\&Sizeof.c -o 14.Cast\&Sizeof.o
 gcc 15.Challenge3.c -o 15.Challenge3.o
 gcc 16.Challenge4.c -o 16.Challenge4.o
+gcc 17.IfElse.c -o 17.IfElse.o
+gcc 18.IfElseIf.c -o 18.IfElseIf.o
