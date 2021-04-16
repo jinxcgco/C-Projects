@@ -16,3 +16,6 @@ gcc 15.Challenge3.c -o 15.Challenge3.o
 gcc 16.Challenge4.c -o 16.Challenge4.o
 gcc 17.IfElse.c -o 17.IfElse.o
 gcc 18.IfElseIf.c -o 18.IfElseIf.o
+gcc 19.Switch.c -o 19.Switch.o
+gcc 20.Challenge5.c -o 20.Challenge5.o
+gcc 21.RightChallenge5.c -o 21.RightChallenge5.o
