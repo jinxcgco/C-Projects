@@ -23,3 +23,4 @@ gcc 22.ForLoops.c -o 22.ForLoops.o
 gcc 23.Challenge6.c -o 23.Challenge6.o
 gcc 24.Arrays.c -o 24.Arrays.o
 gcc 25.ArrayInitialisation.c -o 25.ArrayInitialisation.o
+gcc 26.MultidimensionalArray.c -o 26.MultidimensionalArray.o
