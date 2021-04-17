@@ -20,3 +20,4 @@ gcc 19.Switch.c -o 19.Switch.o
 gcc 20.Challenge5.c -o 20.Challenge5.o
 gcc 21.RightChallenge5.c -o 21.RightChallenge5.o
 gcc 22.ForLoops.c -o 22.ForLoops.o
+gcc 23.Challenge6.c -o 23.Challenge6.o
