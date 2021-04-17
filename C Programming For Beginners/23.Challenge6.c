@@ -15,6 +15,11 @@
    along with CProjects; if not, see
    <https://www.gnu.org/licenses/>. */
 
+/**
+ * This program is a little game where the user should guess a number generated
+ * randomly between 0 and 20.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
